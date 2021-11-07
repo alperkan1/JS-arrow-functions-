@@ -39,4 +39,4 @@ const returnMultipleLines = () => (
     this is a multiple line string!
    </p>`
     )
-console.log(returnMultipleLines)
+console.log(returnMultipleLines())
